@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://atmosferageek.github.io/atmosferageek/de/author/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosferageek.github.io/atmosferageek/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://atmosferageek.github.io/atmosferageek/de/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://atmosferageek.github.io/atmosferageek/de/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosferageek.github.io/atmosferageek/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://atmosferageek.github.io/atmosferageek/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://atmosferageek.github.io/atmosferageek/de/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosferageek.github.io/atmosferageek/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://atmosferageek.github.io/atmosferageek/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://atmosferageek.github.io/atmosferageek/de/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://atmosferageek.github.io/atmosferageek/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://atmosferageek.github.io/atmosferageek/de/tags/"
+                />
+  </url>
+  
+</urlset>
