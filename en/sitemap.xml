@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://atmosferageek.github.io/atmosferageek/post/blog/</loc>
+    <lastmod>2019-03-18T12:48:18-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmosferageek.github.io/atmosferageek/</loc>
+    <lastmod>2019-03-18T12:48:18-06:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -45,6 +51,12 @@
                 hreflang="en"
                 href="https://atmosferageek.github.io/atmosferageek/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://atmosferageek.github.io/atmosferageek/post/</loc>
+    <lastmod>2019-03-18T12:48:18-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Atmosfera Geek</title>
-    <link>https://atmosferageek.github.io/atmosferageek/</link>
-    <description>Recent content on Atmosfera Geek</description>
+    <title>Posts on Atmosfera Geek</title>
+    <link>https://atmosferageek.github.io/atmosferageek/post/</link>
+    <description>Recent content in Posts on Atmosfera Geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Mar 2019 12:48:18 -0600</lastBuildDate>
     
-        <atom:link href="https://atmosferageek.github.io/atmosferageek/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atmosferageek.github.io/atmosferageek/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
