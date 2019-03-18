@@ -10,5 +10,14 @@
 	<atom:link href="https://atmosferageek.github.io/atmosferageek/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Hugo</title>
+      <link>https://atmosferageek.github.io/atmosferageek/categories/hugo/</link>
+      <pubDate>Mon, 18 Mar 2019 12:48:18 -0600</pubDate>
+      
+      <guid>https://atmosferageek.github.io/atmosferageek/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
