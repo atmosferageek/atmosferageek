@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://atmosferageek.github.io/atmosferageek/post/google-stadia/</loc>
+    <lastmod>2019-03-18T12:48:18-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmosferageek.github.io/atmosferageek/</loc>
     <lastmod>2019-03-18T12:48:18-06:00</lastmod>
     <priority>0</priority>
@@ -60,7 +65,13 @@
   </url>
   
   <url>
-    <loc>https://atmosferageek.github.io/atmosferageek/categories/hugo/</loc>
+    <loc>https://atmosferageek.github.io/atmosferageek/tags/games/</loc>
+    <lastmod>2019-03-18T12:48:18-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmosferageek.github.io/atmosferageek/tags/google/</loc>
     <lastmod>2019-03-18T12:48:18-06:00</lastmod>
     <priority>0</priority>
   </url>
@@ -72,7 +83,25 @@
   </url>
   
   <url>
+    <loc>https://atmosferageek.github.io/atmosferageek/categories/hugo/</loc>
+    <lastmod>2019-03-18T12:48:18-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://atmosferageek.github.io/atmosferageek/post/</loc>
+    <lastmod>2019-03-18T12:48:18-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmosferageek.github.io/atmosferageek/tags/stadia/</loc>
+    <lastmod>2019-03-18T12:48:18-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmosferageek.github.io/atmosferageek/categories/stadia/</loc>
     <lastmod>2019-03-18T12:48:18-06:00</lastmod>
     <priority>0</priority>
   </url>
